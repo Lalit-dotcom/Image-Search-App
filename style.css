@@ -94,7 +94,7 @@ form{
     color: #fff;
     padding: 10px 20px;
     text-align: center;
-    display: block;
+    display: none;
     margin: 20px auto;
     border-radius: 5px;
     cursor: pointer;
